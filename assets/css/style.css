@@ -8,7 +8,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") center center no-repeat;
+  background: #040404 url("../img/bg.JPG") center center no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -19,7 +19,7 @@ body::before {
 @media (max-width: 1080px) {
   body::before {
     background-attachment: fixed;
-    background: #040404 url("../img/bg1.jpg") center center no-repeat;
+    background: #040404 url("../img/bg1.JPG") center center no-repeat;
     background-size: cover;  
   }
 }
